@@ -25,8 +25,8 @@ Flashcards for intro to programming vocabulary definitions.
 
 ## Links
 
-[Github Repo] (https://github.com/atrotter0/flashcard)
-[Github Pages] (https://atrotter0.github.io/flashcard)
+[Github Repo] (https://github.com/atrotter0/flashcard)  
+[Github Pages] (https://atrotter0.github.io/flashcard)  
 
 
 ## License
