@@ -33,6 +33,12 @@ h1 {
   display: none;
 }
 
+.card-flip {
+  transition: 1s;
+  transform: rotateY(360deg);
+  background-color: rgba(78, 78, 78, 0.2);
+}
+
 /* Responsive Styles */
 @media screen and (max-width: 995px) {
   .card {
