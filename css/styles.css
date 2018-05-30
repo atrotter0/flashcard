@@ -34,7 +34,6 @@ h1 {
 }
 
 .card-flip {
-  transition: 1s;
   transform: rotateY(360deg);
   background-color: rgba(78, 78, 78, 0.2);
 }
